@@ -1,4 +1,5 @@
 # hello-world
-first repository in GitHub
+first
 
-FUCK it,I read english so slow
+FUCK it,I read english
+nothing to add
