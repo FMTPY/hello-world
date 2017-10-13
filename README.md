@@ -1,5 +1,9 @@
 # hello-world
-first repository in GitHub
+first
+
 
 FUCK
 add something
+=======
+FUCK it,I read english
+
